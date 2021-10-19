@@ -1,0 +1,14 @@
+.body-bake{
+    background-image: url("SuperHero.png");
+    background-position: center;
+    background-size: cover;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(217, 255, 0);
+    text-align: center;
+    background-color: black;
+}
+
+#Super{
+    border: 3px crimson ridge;
+    background-color: bisque;
+}
